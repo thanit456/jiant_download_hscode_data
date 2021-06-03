@@ -1,0 +1,9 @@
+{
+    "task": "hs1",
+    "paths": {
+      "train": "/content/tasks/data/hs1/train.jsonl",
+      "val": "/content/tasks/data/hs1/val.jsonl",
+      "test": "/content/tasks/data/hs1/test.jsonl"
+    },
+    "name": "hs1"
+}
